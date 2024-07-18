@@ -1,0 +1,39 @@
+.nav-contianer {
+  background-color: #475569;
+  min-height: 19vh;
+  padding: 1px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 8px;
+}
+.nav-inner-contianer {
+  width: 85%;
+}
+.layout-title {
+  color: #f1f5f9;
+  font-family: 'Roboto';
+  font-size: 32px;
+  font-weight: 600;
+  margin-bottom: 14px;
+}
+.nav-unorder-list {
+  padding: 0px;
+  list-style-type: none;
+  margin-top: 1px;
+}
+.nav-list-item {
+  display: flex;
+  align-items: center;
+}
+.label-style {
+  color: #f1f5f9;
+  font-size: 16px;
+  font: 400;
+  font-family: 'Roboto';
+  margin-left: 5px;
+}
+.input-element {
+  width: 16px;
+  height: 16px;
+}
